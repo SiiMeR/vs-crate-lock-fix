@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "cratelockfix",
+    "name": "CrateLockFix",
+    "authors": [
+        "SiiMeR"
+    ],
+    "description": "Makes reinforcing and locking crates possible",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}

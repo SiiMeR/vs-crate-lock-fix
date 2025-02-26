@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+**/Releases/
+.idea/
+*.sln.DotSettings.User
+lib/
